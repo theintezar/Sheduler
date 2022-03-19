@@ -2,8 +2,9 @@ body {
     display: flex;
     margin-top: 50px;
     justify-content: center;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5SwKlduzI7mQhKgrewNhe1KScb2QDEcxBnQ&usqp=CAU");
-    object-fit: cover;
+    background-image: url("https://cdn.pixabay.com/photo/2019/03/03/21/59/landscape-4032951_1280.jpg");
+    
+  
   }
   button {
     width: 75px;
