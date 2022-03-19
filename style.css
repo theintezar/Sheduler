@@ -26,7 +26,7 @@ body {
     justify-content: space-between;
   }
   #header button {
-    background-color:#234edb;
+    background-color:#23dbad;
   }
   #container {
     width: 770px;
@@ -34,7 +34,7 @@ body {
   #weekdays {
     width: 100%;
     display: flex;
-    color: #020f25;
+    color: #020008;
     font-weight: 800;
     font-size: 18px;
   }
